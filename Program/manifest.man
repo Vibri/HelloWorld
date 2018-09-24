@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Balicky.jar
+Main-Class: prog.Program
+Created-By: 1.8.0_144 (Oracle Corporation)
